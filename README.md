@@ -1,6 +1,8 @@
 # dcli demo (Dart Package of the Week #8)
 
-## Pre-requisites
+This demonstrates how to use the dcli command line scripting package. [See video tutorial](https://youtu.be/z99IxxWmD1Q).
+
+## Steps
 
 1. Install `dcli`
 ```bash
